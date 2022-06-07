@@ -1,2 +1,2 @@
 # initial_days
-This is my intial days to learn about GitHub. 
+This is my initial days to learn about GitHub.
