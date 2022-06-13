@@ -1,6 +1,6 @@
 import random
-secretNumber = random.randint(1,20)
-print('I am thinking of a number between 1 and 20')
+secretNumber = random.randint(1,11)
+print('I am thinking of a number between 1 and 10')
 
 #6 guess
 for guessTaken in range(1,7):
